@@ -1,6 +1,6 @@
 # -- Project information -----------------------------------------------------
 
-project = "paper-sicheng-repo"
+project = "sicheng-blog"
 copyright = "2025, sicheng1806"
 author = "sicheng1806"
 
